@@ -1,0 +1,9 @@
+/Users/mattielee/Projects/playground/test/obj/x86/Debug/test.csprojAssemblyReference.cache
+/Users/mattielee/Projects/playground/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/Users/mattielee/Projects/playground/test/bin/Debug/test.exe
+/Users/mattielee/Projects/playground/test/bin/Debug/test.pdb
+/Users/mattielee/Projects/playground/test/bin/Debug/playground.exe
+/Users/mattielee/Projects/playground/test/bin/Debug/playground.pdb
+/Users/mattielee/Projects/playground/test/obj/x86/Debug/test.csproj.CopyComplete
+/Users/mattielee/Projects/playground/test/obj/x86/Debug/test.exe
+/Users/mattielee/Projects/playground/test/obj/x86/Debug/test.pdb

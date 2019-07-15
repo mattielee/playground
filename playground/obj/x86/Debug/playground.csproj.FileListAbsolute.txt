@@ -1,0 +1,6 @@
+/Users/mattielee/Projects/playground/playground/bin/Debug/playground.exe
+/Users/mattielee/Projects/playground/playground/bin/Debug/playground.pdb
+/Users/mattielee/Projects/playground/playground/obj/x86/Debug/playground.csprojAssemblyReference.cache
+/Users/mattielee/Projects/playground/playground/obj/x86/Debug/playground.csproj.CoreCompileInputs.cache
+/Users/mattielee/Projects/playground/playground/obj/x86/Debug/playground.exe
+/Users/mattielee/Projects/playground/playground/obj/x86/Debug/playground.pdb
